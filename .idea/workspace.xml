@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4434c653-9e9b-44e8-a5ef-0f23e51b2e9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vZSLnc6SpskZhsq9dlSVhzR3zw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HdfsClient.testmkdir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDFSClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atjh.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atjh.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.atjh.hdfs.HdfsClient" />
+      <option name="METHOD_NAME" value="testmkdir" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HdfsClient.testmkdir" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4434c653-9e9b-44e8-a5ef-0f23e51b2e9c" name="Default Changelist" comment="" />
+      <created>1626768064894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626768064894</updated>
+      <workItem from="1626768069897" duration="2962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1626769273524">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1626769273524" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1626770380592">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1626770380592" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1626770380592">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1626770380592" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1626770380592">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1626770380592" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1626770380592">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1626770380592" />
+  </component>
+</project>
